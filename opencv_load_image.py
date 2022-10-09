@@ -1,5 +1,5 @@
 # USAGE
-# python load_image_opencv.py -i aeroplane.jpg
+# python opencv_load_image.py -i aeroplane.jpg
 
 # Import necessary libraries
 import argparse
